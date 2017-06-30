@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Getting_Inputs_From_Controller.unity
+  isLoaded: 1
+  isActive: 1
